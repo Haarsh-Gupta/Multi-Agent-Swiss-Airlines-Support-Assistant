@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+
+# SQLite databases and vector stores
+db/*.db
+db/*.sqlite
+db/*.sqlite3
+db/vectorstore/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
