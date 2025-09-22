@@ -155,7 +155,7 @@ The agent is built using LangGraph and follows a multi-agent, hierarchical struc
 ### Part2 Simple Agent Architecture with Interrupt
 ![Part2 Simple Agent Architecture](./assets/part2.png)
 ### Part3 Simple Agent Architecture with Tools Segration
-![Part3 Simple Agent Architecture](./assets/part3.png)
+![Part3 Simple Agent Architecture](./assets/Part3.png)
 ### Part4 Final Complex Agent Architecture
 ![Part4 Final Agent Architecture](./assets/part4.png)
 
